@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: headingnorther
+author: headingnorther
 email: headingnorther@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Educational materials from your friendly neighborhood anti-fascist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zines.headingnorther.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: headingnorther
-github_username:  headingnorther
+twitter_username: heading_norther
+instagram_username: headingnorther
 
 # Build settings
 theme: jekyll-theme-hacker 
