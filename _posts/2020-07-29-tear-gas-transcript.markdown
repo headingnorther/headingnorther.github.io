@@ -1,3 +1,4 @@
+Tear Gas Zine Transcript
 ---
 layout: post
 title: 'Tear Gas for Portlanders Transcript'
@@ -17,7 +18,7 @@ Contains one (1) flawed chronology; manufactured with equipment that processes t
 
 ### Page One: 
 
-*[comic shows a person in black bloc and goggles using a water bottle
+*[ID: comic shows a person in black bloc and goggles using a water bottle
 to rinse out their eyes. Clouds of tear gas are visible in the
 background. They turn to directly face the reader, the elk statue is
 visible in the background.]* 
@@ -33,7 +34,7 @@ visible in the background.]*
 
 ### Page Two:
 
-*[on the right side of the page three boxes show the same masked
+*[ID: on the right side of the page three boxes show the same masked
 person using heat proof gloves, a traffic cone, and a water bottle to
 neutralize a canister of tear gas. The top of pages two and three read
 “TEAR (CS) GAS”]*
@@ -49,11 +50,11 @@ CN gas, also sold as Mace. The most toxic of the commonly used tear gases, popul
 
 ### Page Three:
 
-*[a gloved hand holds a canister of CS gas with writing on it.]*
+*[ID: a gloved hand holds a canister of CS gas with writing on it.]*
 
 CS gas is actually a solid, so it’s dispersed as a powder, usually with the pyrotechnic power of a grenade or pressurized canister. This powder adheres to oil and moisture, which is why makeup, sunscreen and contacts are a bad idea (2). The powder settles on surfaces and can be active five days after dispersal. 
 
-*[FNAF leans against a light post, coughing and wheezing]*
+*[ID: FNAF leans against a light post, coughing and wheezing]*
 
 **FNAF:** "CS gas and every other form of tear gas has been banned in
 warfare under multiple treaties, the first being the 1925 Geneva
@@ -68,7 +69,7 @@ reactivates); Hydrate."
 
 **TITLE:** Tear Gas and the Portland Police Bureau 
 
-*[The top right shows a drawing of the Portland Police Bureau badge,
+*[ID: The top right shows a drawing of the Portland Police Bureau badge,
 underneath small boxes depict images from previous protests where the
 police used tear gas.]*
 
@@ -91,7 +92,7 @@ Where is their evidence that this is the case?
 
 ### Page Five:
 
-*[page shows a timeline starting in march with each event written in
+*[ID: page shows a timeline starting in march with each event written in
 order of date]*
 
 **TITLE:** Partial Chronology (16,17, 18)
@@ -121,7 +122,7 @@ order of date]*
 
 ### Page Six:
 
-*[across the top of pages 6 and 7 title reads: OUTRAGE PAGE]*
+*[ID: across the top of pages 6 and 7 title reads: OUTRAGE PAGE]*
 
 **FNAF:** “cataloging specifically tear gas related crimes against Portlanders!”
 
@@ -146,7 +147,7 @@ Impacts of tear gas are worsened in the era of COVID-19 because: Tear gas caused
 
 Activity Section: 
 
-discover and record your own crimes against humanity! *[lines provided
+discover and record your own crimes against humanity! *[ID: lines provided
 to complete activity]*
 
 
@@ -203,5 +204,3 @@ Speak: Head out into your community and exercise your first amendment rights: pd
 33. Morman, A., Williams, Z., Smith, D., Randolph A.C. Pg 15
 
 ### Thanks To: Don’t Shoot Portland’s “Riot Control Agents: Systemic Reassessment of Adverse effects on Health, Mental Stability, and Social Inequalities”
-
-

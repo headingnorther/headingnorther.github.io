@@ -17,7 +17,7 @@ Warning: highly condensed history. Consider diluting with further reading.
 
 ### Page One:
 
-*[FNAF is shown waving at the reader. Half of their body is wearing black bloc including a black shirt, mask, hat and a respirator around their neck. Their other half is wearing a shirt featuring the pdx airport carpet design. They are wearing heat proof gloves and holding a helmet. A black backpack with an umbrella in the pocket sits at their feet.]*
+*[ID: FNAF is shown waving at the reader. Half of their body is wearing black bloc including a black shirt, mask, hat and a respirator around their neck. Their other half is wearing a shirt featuring the pdx airport carpet design. They are wearing heat proof gloves and holding a helmet. A black backpack with an umbrella in the pocket sits at their feet.]*
 
 **FNAF:** “Nice to see you again! I’m your friendly neighborhood anti-facist, here to talk to you about bloc. Black bloc is a strategy to avoid police surveillance by dressing in generic black.”
 
@@ -29,47 +29,47 @@ Debloc: wearing bloc in transit makes you a target. Find a safe place without ca
 
 ### Page Two:
 
-*[three boxes show snapshots depicting moments in the history of black bloc. FNAF walks around them, as if the reader is seeing them from above and narrates. The top of pages two and three read: “History and Purpose of Black Bloc]*
+*[ID: three boxes show snapshots depicting moments in the history of black bloc. FNAF walks around them, as if the reader is seeing them from above and narrates. The top of pages two and three read: “History and Purpose of Black Bloc]*
 
 Black bloc originated in the Automen movement in West Berlin from 1980-81 when, facing a housing crisis thousands of people squatted in abandoned buildings (2). Over the next decade, bloc became common in Germany and then spread to the rest of the world.
 
-*[the first snapshot shows three masked people sitting on the side of an abandoned building in West Berlin (3)]*
+*[ID: the first snapshot shows three masked people sitting on the side of an abandoned building in West Berlin (3)]*
 
 **FNAF:** “Black blocs are most often utilized to combat surveillance technology (4). It’s often associated with anti-capitalist, anti-imperialist, anarchist movements--but since its popularization it has been used by diverse movements including Hong Kong pro-democracy protesters (5).”
 
 Berlin 1988: eighty thousand protesters, eight thousand black bloc, disrupt IMF/WB congress (8).
 
-*[the next snapshot shows several anonymous protesters in block balaclavas (7)]*
+*[ID: the next snapshot shows several anonymous protesters in block balaclavas (7)]*
 
 **FNAF:** “Blocs are known for employing a diversity of tactics including resisting police dispersal and property damage (6).”
 
 Seattle 1999: anti WTO protest mark first large black bloc in North America; national media attention (10). 
 
-*[The last snapshot shows a street full of protesters. Two protesters in the foreground are wearing hats to make them look like turtles. A large sign over the street reads: “MARKET CENTER” (10)]*
+*[ID: The last snapshot shows a street full of protesters. Two protesters in the foreground are wearing hats to make them look like turtles. A large sign over the street reads: “MARKET CENTER” (10)]*
 
 ### Page Three:
 
-*[Page three shows two snapshots of black bloc in action, again the FNAF walks around them, narrating.]*
+*[ID: Page three shows two snapshots of black bloc in action, again the FNAF walks around them, narrating.]*
 
 Egypt 2013: Following revolution, black bloc formed to protect large anti-government protests and shut down public transit (12).
 
-*[The first snapshot shows a group of Egyptian protesters in black bloc (11).]*
+*[ID: The first snapshot shows a group of Egyptian protesters in black bloc (11).]*
 
 **FNAF:** “So why should you consider blocking up? To avoid surveillance and remain anonymous. Even if you don’t think you’re breaking any laws, police are arresting people for no more than their presence at protests. To protect others: if you look the same as vulnerable people (eg, people on the front lines, people who are more marginalized) it’s harder to identify them. It encourages widespread participation: anyone can wear black. It promotes unity and solidarity (13).”
 
 Hong Kong 2019: Huge black blocs battle with police, vandalize shopping malls and more in pro-democracy protest, a direct result of proposed extradition bill (15). 
 
-*[second snapshot shows a huge crowd of protesters on a street with big office buildings, in the foreground one protester standing above the crowd wearing a backpack, goggles and a respirator points up and to the right (14).]*
+*[ID: second snapshot shows a huge crowd of protesters on a street with big office buildings, in the foreground one protester standing above the crowd wearing a backpack, goggles and a respirator points up and to the right (14).]*
 
 ### Page Four:
 
-*[pages four and five show protesters standing in front of the Fence ™ which runs along the back of the page. Signs are attached to the fence, forming the title which reads: **“BLOC AT PDX PROTESTS”**. On Page four, four people in different kinds of black bloc stand. One wears a gas mask, two wear hats and buffs pulled up over their faces with goggles, one wears a bike helmet and ski goggles. Two more protesters sit on the sidewalk, learning against each other.]*
+*[ID: pages four and five show protesters standing in front of the Fence ™ which runs along the back of the page. Signs are attached to the fence, forming the title which reads: **“BLOC AT PDX PROTESTS”**. On Page four, four people in different kinds of black bloc stand. One wears a gas mask, two wear hats and buffs pulled up over their faces with goggles, one wears a bike helmet and ski goggles. Two more protesters sit on the sidewalk, learning against each other.]*
 
 Classic black bloc: the bloc has no singular leadership, but it does have tactical strategy (16). Anyone can be part of the black bloc. Much of the black bloc is very young. In Portland (and, general, the US) blocs are most often made up of discrete affinity groups. Affinity groups are based on trusted friendships. Groups come together to form a large, decentralized bloc that can accomplish goals.
 
 ### Page Five: 
 
-*[A protester in full black bloc holds up a sign which reads **“BLACK LIVES MATTER”** an old fashioned light post separates them from three more protesters. One dad bloc protester wears a backwards baseball cap and carries a leaf blower, his shirt is orange. A mom bloc protester wears an orange shirt.]*
+*[ID: A protester in full black bloc holds up a sign which reads **“BLACK LIVES MATTER”** an old fashioned light post separates them from three more protesters. One dad bloc protester wears a backwards baseball cap and carries a leaf blower, his shirt is orange. A mom bloc protester wears an orange shirt.]*
 
 Mom and dad loc are both forms of non-anonymous bloc. Other examples include chef bloc and lawyer bloc; these forms of bloc use the wearer’s identity to send a public message, and the uniformity of bloc to show unity. 
 
@@ -81,7 +81,7 @@ Heads up: anyone can wear bloc. Don’t assume someone’s race, risk level, or 
 
 **TITLE:** So You’re at a Portland Protest
 
-*[The heads of four riot cops are visible at the top of the page. Their bodies are obscured by clouds of teargas. Two cops hold batons and one holds a gun. At the bottom of the page three protesters in black bloc are slowly backing away from the cops, one holds an umbrella as a shield.]*
+*[ID: The heads of four riot cops are visible at the top of the page. Their bodies are obscured by clouds of teargas. Two cops hold batons and one holds a gun. At the bottom of the page three protesters in black bloc are slowly backing away from the cops, one holds an umbrella as a shield.]*
 
 During a dispersal, it’s easy to panic. Don’t panic.
 
@@ -101,47 +101,47 @@ For all these reasons:
 
 TITLE: Dos and Don’ts
 
-*[The page is filled with boxes, each box has a DO or a Don’t written in it.]*
+*[ID: The page is filled with boxes, each box has a DO or a Don’t written in it.]*
 
 DON’T introduce yourself with your real name
 
 DO come up with an easy to hear nickname to use in bloc (19).
 
-**PROTESTER:** “Hi, I’m…” *[text boxes obscures name]*
+**PROTESTER:** “Hi, I’m…” *[ID: text boxes obscures name]*
 
 **FNAF:** “Howdy-- I’m FNAF”
 
-DO spread accurate information on your social media *[an instagram style picture reads “2NITE 7:00 PM”]*
+DO spread accurate information on your social media *[ID: an instagram style picture reads “2NITE 7:00 PM”]*
 
-DON’T post pics or videos of protests (best case: disrespectful, worst: dangerous) *[instagram styleg picture shows a person in bloc standing next to graffiti which reads “ACAB”]*
+DON’T post pics or videos of protests (best case: disrespectful, worst: dangerous) *[ID: instagram style picture shows a person in bloc standing next to graffiti which reads “ACAB”]*
 
 DON’T talk to your non-protesting friends and families about specific protest activities. 
 
-DON’T bring your phone to protests-- or at least turn off face/fingerprint unlocking *[picture shows several people in bloc staring at phones in front of a fence.]*
+DON’T bring your phone to protests-- or at least turn off face/fingerprint unlocking *[ID: picture shows several people in bloc staring at phones in front of a fence.]*
 
 DO write the National Lawyers Guild PDX jail line on your body before you head out: 971-247-1072 (on 8/7/20) or better yet memorize the number
 
-DO talk to friends and family about abolition, protests, racism… *[four protesters in bloc stand in a circle]*
+DO talk to friends and family about abolition, protests, racism… *[ID: four protesters in bloc stand in a circle]*
 
-DO have a protest buddy *[two protesters in bloc link arms.]*
+DO have a protest buddy *[ID: two protesters in bloc link arms.]*
 
 Do establish clearly defined limits with them: are you comfortable defying lawful orders? Being tear gassed? Getting arrested?
 
-DON’T livestream protesters’ actions or faces. PPB uses streams for intel. *[annoyed protester covers their face and says “hey!” while a livestreamer’s phone is visible filming them.]*
+DON’T livestream protesters’ actions or faces. PPB uses streams for intel. *[ID: annoyed protester covers their face and says “hey!” while a livestreamer’s phone is visible filming them.]*
 
-DO point your phone at the cops. Consider delaying our stream by about 3- mins to complicate their response. *[a phone films cops in riot gear.]*
+DO point your phone at the cops. Consider delaying our stream by about 3- mins to complicate their response. *[ID: a phone films cops in riot gear.]*
 
-*[There is a strip of four pannels at the bottom of the page depicting a protester and a cop]*
+*[ID: There is a strip of four panels at the bottom of the page depicting a protester and a cop]*
 
 DON’T TALK TO COPS: an illustrated guide
 
 PROTESTER: “I would like a lawyer. I am invoking my right to remain silent.”
 
-[in the second box the protester invokes their right to remain silent, in the third and fourth boxes the protester sits silently, staring past the cop at the reader.]
+[ID: in the second box the protester invokes their right to remain silent, in the third and fourth boxes the protester sits silently, staring past the cop at the reader.]
 
 ### Page Eight: 
 
-*[At the top of the page FNAF climbs back into the box, and then waves at the reader. At the bottom of the page FNAF sleeps with their head on their hands, lightly snoring.]*
+*[ID: At the top of the page FNAF climbs back into the box, and then waves at the reader. At the bottom of the page FNAF sleeps with their head on their hands, lightly snoring.]*
 
 **FNAF:** “Bloc is a valuable tool for protecting yourself and others.”
 
@@ -188,4 +188,6 @@ headingnorther@gmail.com
 August 7th 2020 
 
 From southeastman and headingnorther
+
+
 
