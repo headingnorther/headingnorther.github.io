@@ -15,7 +15,7 @@ checklist on page 8 you'll be a little safer as you plumb the web's depths."
 (The citations at the end are clickable links)
 
 
-[Printable version](https://zines.headingnorther.com/pdfs/digsec/imposeddigseczine.pdf)
+[Printable version](https://zines.headingnorther.com/pdfs/digsec/digsecimposed.pdf)
 -------------------
 
 (to make this come out properly, select 'short edge binding' when
@@ -24,5 +24,5 @@ printing on a duplex (double-sided) printer)
 (artistic vision: print the first double-sided page on yellow or
 orange paper)
 
-[Transcript](/2020/09/15/digital-security-transcript.html)
+[Transcript](/2020/09/14/digital-security-transcript.html)
 -----------
